@@ -1,0 +1,1 @@
+<h1>Example of another page linked.</h1>
